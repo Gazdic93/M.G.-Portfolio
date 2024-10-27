@@ -760,6 +760,91 @@ footer {
 
 }
 
+/* media 430 */
+
+@media screen and (max-width:430px) {
+    #navmenu {
+        background: rgb(116,116,116);
+        background: linear-gradient(90deg, rgba(116,116,116,1) 0%, rgba(206,206,213,1) 50%, rgba(116,116,116,1) 100%);
+        display: flex;
+        flex-direction: column;
+      }
+    #navmenu ul{
+
+        display: flex;
+        flex-direction: column;
+
+    }
+    
+        #navmenu h1 {
+            display: none;   
+            
+         }
+        
+        
+        #navmenu ul li a {
+            font-size: 1em;   
+        }
+        
+        
+        #showcase h2,p{
+            
+            font-size: 1.3em;
+        }
+        
+        #showcase{
+            
+            height: 100vh;
+            background-image: url(../images/backgroundd.jpg);
+            position: relative;
+           
+        }
+       
+        
+        .right img {
+            
+            width:70%;
+                
+        }
+
+        .myprojects figcaption {
+            font-size: 1em;
+        }
+        
+    
+        
+      
+        .aboutme h3 {
+            font-size: 1.2em;
+            
+        }
+        
+        #about .aboutme p{
+          
+        font-size: 1em;
+        text-align: center;
+          
+        }
+        
+                  
+        
+        .symbol img {
+            width: 55px;
+        
+        }
+
+        footer {
+            justify-content: center;
+            font-size: 0.7em;
+        }
+            
+        .left h2,p {
+            align-items: center;
+        }
+
+
+}
+
  
 
 
