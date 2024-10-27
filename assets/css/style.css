@@ -561,6 +561,10 @@ footer .callme {
             background-position: right;
             
         }
+
+        .myprojects figcaption {
+            font-size: 1.3em;
+        }
     
         
       
@@ -637,6 +641,9 @@ footer .callme {
         background-position: right;
         
     }
+     .myprojects figcaption {
+            font-size: 1.1em;
+        }
 
     
   
@@ -720,6 +727,9 @@ footer {
         .left h2,p {
         align-items: center;
          }
+        .myprojects figcaption {
+            font-size: 1em;
+        }
     
         
       
