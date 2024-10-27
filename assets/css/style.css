@@ -646,6 +646,7 @@ footer .callme {
     #about .aboutme p{
       
     font-size: 1.1em;
+    text-align: center;
       
     }
     
@@ -726,6 +727,7 @@ footer {
         #about .aboutme p{
           
         font-size: 1em;
+        text-align: center;    
           
         }
         
