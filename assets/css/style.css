@@ -87,7 +87,9 @@ color: white;}
     flex:1
     
 }
-
+.left h2,p {
+    align-items: center;
+}
 .right {
     flex:1
     
@@ -715,7 +717,9 @@ footer {
             width:75%;
                 
         }
-        
+        .left h2,p {
+        align-items: center;
+         }
     
         
       
