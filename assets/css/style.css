@@ -705,10 +705,16 @@ footer {
         }
         
         
-        #showcase h2,p{
+        #showcase h2{
             
             font-size: 1.2em;
         }
+
+        #showcase p {
+            font-size: 0.8em;
+        }
+
+    
         
         #showcase{
             
